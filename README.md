@@ -12,6 +12,7 @@
 - **Libraries Used**:
   - Data Analysis: pandas, NumPy
   - Machine Learning: scikit-learn
+  - Leep Learning: sentence_transformers
 - [Recommendation System Project No.2 repo](https://github.com/JPP-J/reccomd_project2.git)
 - [Demo results report](https://github.com/JPP-J/reccomd_project2/blob/f0848509c94f0c1c691f84aa2b56fa9ae8815951/reccomd2_results_with_embedded_query.ipynb)
 

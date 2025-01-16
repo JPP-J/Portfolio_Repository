@@ -42,7 +42,7 @@
 - **Libraries Used**:
   - Data Analysis: pandas, NumPy
   - Visualization: matplotlib, seaborn
-  - Image Handling: PIL
+  - Image Handling: PIL, cv2
   - Model Handling: pickle, joblib
   - Pretrained Model:  CLIP Pre-trained, ResNet-50d, YOLOv8n and openthaigpt-1.0.0-7b-chat
   - Deep Learning: tensorflow, keras, pytorch

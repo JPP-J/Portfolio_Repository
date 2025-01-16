@@ -12,6 +12,8 @@
 - **Libraries Used**:
   - Data Analysis: pandas, NumPy
   - Machine Learning: scikit-learn
+  - Search Frameworks: FAISS
+  - Pretrained Model: all-MiniLM-L6-v2
   - Leep Learning: sentence_transformers
 - [Recommendation System Project No.2 repo](https://github.com/JPP-J/reccomd_project2.git)
 - [Demo results report](https://github.com/JPP-J/reccomd_project2/blob/f0848509c94f0c1c691f84aa2b56fa9ae8815951/reccomd2_results_with_embedded_query.ipynb)
@@ -30,7 +32,7 @@
 - **Libraries Used**:
   - Data Analysis: pandas, NumPy
   - Visualization: matplotlib, seaborn
-  - Reduction, decomposition: PCA, SVD
+  - Dimensionality Reduction: PCA, SVD
   - Machine Learning: scikit-learn
   - Model Evaluation: silhouette_score, adjusted_rand_score, davies_bouldin_score
 - [Clustering Project repo](https://github.com/JPP-J/clustering_project.git)
@@ -42,6 +44,7 @@
   - Visualization: matplotlib, seaborn
   - Image Handling: PIL
   - Model Handling: pickle, joblib
+  - Pretrained Model:  CLIP Pre-trained, ResNet-50d, YOLOv8n and ggml-model-f16
   - Deep Learning: tensorflow, keras, pytorch
   - Model Evaluation: cross_val_score, Loss, Accuracy
 - [Deep learning Project repo](https://github.com/JPP-J/deep-_learning_project.git)
@@ -60,7 +63,7 @@
 - **Libraries Used**:
   - Data Analysis: pandas, NumPy
   - Visualization: matplotlib
-  - Decomposition: PCA
+  - Dimensionality Reduction: PCA
   - Model Handling: joblib
   - Text Processes: nltk
   - Token Vector: TF-IDF, Tern Occurrence, TF

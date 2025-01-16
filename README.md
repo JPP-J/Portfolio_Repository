@@ -44,7 +44,7 @@
   - Visualization: matplotlib, seaborn
   - Image Handling: PIL
   - Model Handling: pickle, joblib
-  - Pretrained Model:  CLIP Pre-trained, ResNet-50d, YOLOv8n and ggml-model-f16
+  - Pretrained Model:  CLIP Pre-trained, ResNet-50d, YOLOv8n and openthaigpt-1.0.0-7b-chat
   - Deep Learning: tensorflow, keras, pytorch
   - Model Evaluation: cross_val_score, Loss, Accuracy
 - [Deep learning Project repo](https://github.com/JPP-J/deep-_learning_project.git)

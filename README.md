@@ -74,3 +74,7 @@
 ## Project 8: Association Rules Project
 - **Description**: Association Rules Project report with rapid miner
 - [Association Rules Project Report](https://drive.google.com/file/d/1N9sWKvCrjK02BbCL4eXJ4qlCduq2acTz/view?usp=drive_link)
+
+## Example Data Visualization
+- [Example Data Visualization](https://www.canva.com/design/DAGaAbpnfNs/VBBpHbTmypLrZ4WwHkQr4Q/edit?utm_content=DAGaAbpnfNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) with POWER BI and Tableau
+EAU

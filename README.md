@@ -2,8 +2,8 @@
 ## Project 1: Recommendation System Project
 - **Description**: Recommendation System of book items for user
 - **Libraries Used**:
-  - Data Analysis: pandas, NumPy
-  - Machine Learning: scikit-learn
+  - Data Analysis-Data handling: pandas, NumPy, Hadoop, pyspark
+  - Machine Learning: scikit-learn, pyspark
   - Model Evaluation: precision@k
 - [Recommendation System Project repo](https://github.com/JPP-J/recommendation_project.git)
 

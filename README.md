@@ -66,7 +66,7 @@
   - Dimensionality Reduction: PCA
   - Model Handling: joblib
   - Text Processes: nltk
-  - Token Vector: TF-IDF, Tern Occurrence, TF
+  - Token Vector: TF-IDF, Terms Occurrence, TF
   - Deep Learning: scikit-learn
   - Model Evaluation: accuracy_score, classification_report, silhouette_score, adjusted_rand_score, davies_bouldin_score
 - [Text Analytic Project repo](https://github.com/JPP-J/text_analytic_project.git)

@@ -46,6 +46,8 @@
   - Model Handling: pickle, joblib
   - Pretrained Model:  CLIP Pre-trained, ResNet-50d, YOLOv8n and openthaigpt-1.0.0-7b-chat
   - Deep Learning: tensorflow, keras, pytorch
+  - Optical Character Recognition (OCR): pytesseract
+  - web development and networking: flask, flask-ngrok, pyngrok
   - Model Evaluation: cross_val_score, Loss, Accuracy
 - [Deep learning Project repo](https://github.com/JPP-J/deep-_learning_project.git)
 

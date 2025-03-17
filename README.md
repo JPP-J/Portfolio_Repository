@@ -38,7 +38,7 @@
 - [Clustering Project repo](https://github.com/JPP-J/clustering_project.git)
 
 ## Project 5: Deep learning Project
-- **Description**: associated on datatset MNIST for CNN and other dataset for ANN also computer vision image search and other
+- **Description**: associated on datatset MNIST for CNN model, banking dataset for ANN model, computer vision image processing and NLP tasks
 - **Libraries Used**:
   - Data Analysis: pandas, NumPy
   - Visualization: matplotlib, seaborn

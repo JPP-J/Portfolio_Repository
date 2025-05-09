@@ -37,7 +37,7 @@
   - Model Evaluation: silhouette_score, adjusted_rand_score, davies_bouldin_score
 - [Clustering Project repo](https://github.com/JPP-J/clustering_project.git)
 
-## Project 5: Deep learning Project
+## Project 5: Deep learning/AI Project
 - **Description**: associated on datatset MNIST for CNN model, banking dataset for ANN model, computer vision with image processing (Image Classification, Object Detection, Fine-tune object detextion model, Image search with CLIP model) and NLP tasks Including LLM model amd OCR projects
 - **Libraries Used**:
   - Data Analysis: pandas, NumPy

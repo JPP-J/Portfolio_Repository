@@ -165,8 +165,7 @@
 - **Use Case**:  
   Designed for lightweight, real-time NLP processing with extensible architecture to support future modes or models.
 
-- **Repository**:  
-  [Repository](https://github.com/JPP-J/nlp1-spacy)
+- [Repository](https://github.com/JPP-J/nlp1-spacy)
 
 ## Project 8: Association Rules Project
 - **Description**: Association Rules Project report with rapid miner

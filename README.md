@@ -49,7 +49,7 @@
 ### | Object Detection
 
 #### 1. Object Detection Project
-- **Description**: Object Detection on yolov8n model
+- **Description**: Object Detection from image on yolov8n model
 - **Libraries Used**: `pandas`, `NumPy`, `PIL`, `pytorch`, `ultralytics`, `yolo`
 - **Model Used**: YOLOv8n
 

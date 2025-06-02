@@ -1,18 +1,20 @@
-# Portfolio of Projects
+# 🚀 Portfolio of Projects 
+
+This repository showcases a diverse collection of Data Science, Machine Learning, Deep Learning, and AI projects, built using Python, PyTorch, TensorFlow, and various cutting-edge tools and frameworks. The projects span across recommendation systems, classification, clustering, regression, computer vision (CNN, object detection, image search), large language models (LLMs), OCR, NLP microservices, chatbot integrations, and data visualization. They demonstrate hands-on experience with real-world datasets, industry-standard libraries (`pandas`, `scikit-learn`, `PySpark`, `Hadoop`, etc.), modern deployment tools (`FastAPI`, `Docker`, `GitHub Actions`), and advanced techniques in model evaluation, feature engineering, and AI integration. Each project is designed with clarity and modular code, and many include Jupyter Notebooks for interpretability and reproducibility.
 
 ### 🛠️ Tools & Technologies Used Across All Projects 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 ![matplotlib](https://img.shields.io/badge/matplotlib-008080?style=flat-square)
 ![seaborn](https://img.shields.io/badge/seaborn-3776AB?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat-square&logo=apache-spark)
 ![FAISS](https://img.shields.io/badge/FAISS-2496ED?style=flat-square)
 ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6F61?style=flat-square)
-![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
 ![keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras)
-![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-squar)
 ![torchvision](https://img.shields.io/badge/torchvision-483D8B?style=flat-square)
 ![timm](https://img.shields.io/badge/timm-778899?style=flat-square)
 ![pickle](https://img.shields.io/badge/pickle-8B4513?style=flat-square)
@@ -20,7 +22,7 @@
 ![PIL](https://img.shields.io/badge/PIL-FFD700?style=flat-square)
 ![opencv-python](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
 ![ultralytics](https://img.shields.io/badge/ultralytics-000000?style=flat-square)
-![yolo](https://img.shields.io/badge/YOLOv8n-FF1493?style=flat-square)
+![yolo](https://img.shields.io/badge/YOLO-FF1493?style=flat-square)
 ![roboflow](https://img.shields.io/badge/Roboflow-3F8CFF?style=flat-square)
 ![CLIP](https://img.shields.io/badge/CLIP-6A0DAD?style=flat-square)
 ![yt_dlp](https://img.shields.io/badge/yt--dlp-8A2BE2?style=flat-square)
@@ -28,13 +30,13 @@
 ![gradio](https://img.shields.io/badge/Gradio-00C4CC?style=flat-square)
 ![llama-index](https://img.shields.io/badge/llama--index-FF69B4?style=flat-square)
 ![llama-cpp-python](https://img.shields.io/badge/llama--cpp--python-9370DB?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
 ![TextBlob](https://img.shields.io/badge/TextBlob-A0522D?style=flat-square)
 ![spaCyTextBlob](https://img.shields.io/badge/spaCyTextBlob-8FBC8F?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-0D1117?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github)
 ![opencv-python](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
 ![pytesseract](https://img.shields.io/badge/Tesseract-00FFFF?style=flat-square)
 ![flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
@@ -43,7 +45,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009900?style=flat-square&logo=nginx)
 ![json](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json)
 ![dotenv](https://img.shields.io/badge/dotenv-8B008B?style=flat-square)
-![google-genai](https://img.shields.io/badge/Google%20GenAI-4285F4?style=flat-square&logo=google)
+![google-genai](https://img.shields.io/badge/Google%20GenAI-4285F4?style=flat-square)
 
 
 ## Project 1: Recommendation System v.1 Project

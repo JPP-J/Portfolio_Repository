@@ -170,14 +170,14 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Hands-on Python code demo for building a Retrieval-Augmented Generation (RAG) chatbot that uses FAISS for vector search and Ollama LLM for context-aware responses. Features document upload, persistent chat history, and Gradio-based UI.
 - **Libraries Used**: `langchain`, `FAISS`, `HuggingFaceEmbeddings`, `ollama`, `gradio`, `pythainlp`
 - **Model Used**: `gemma3:1b` (via Ollama), `all-MiniLM-L6-v2` (for embeddings)
-- [Repository](https://github.com/JPP-J/DL-3_RAG)
+- [Separate  Repository](https://github.com/JPP-J/DL-3_RAG)
   
 
 ## Project 5: Regression Project and R-Programming Report
 - **Description**: Regression Analysis with processes Data Pre-processing, Feature Selection, Data Exploration, Model Training to Model Evaluation
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `scikit-learn`
 - **Model Evaluation**: mean_squared_error, r2_score
-- [Separate Repository](https://github.com/JPP-J/regression_project.git)
+- [Repository](https://github.com/JPP-J/regression_project.git)
 
 ## Project 6: Text Analytic/NLP Project
 

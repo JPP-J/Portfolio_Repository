@@ -158,7 +158,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
   
 ---
 
-> ###  Project 4-7 hatbot & API Integration
+> ###  Project 4-7 Chatbot & API Integration
 
 > #### 1. GEMINI-API Projects
 - **Description**: hands on python code demo to create chat with GEMINI-API AI with preserve history chat of previously chat

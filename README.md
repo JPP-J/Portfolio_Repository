@@ -82,6 +82,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 > #### 1. ANN model Project
 - **Description**: Building ANN model associated on individual income dataset(to defines target label >50k or <=50k) with tensorflow(kearas) and individual credit bank dataset (to defines target label yes or no for credit ability) and with pytorch can acheived accuracy both tarin and validation stage up to 88.00%
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `pickle`, `joblib`, `tensorflow`, `keras`, `pytorch`, `cross_val_score`, `Loss`, `Accuracy`
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-1-ann-model-project)
 ---
 
 > ### Project 4-2 Convolutional Neural Networks (CNN) & Image Classification
@@ -90,11 +91,13 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Building CNN model to classified image associated on datatset MNIST identified hand written picture of number 0-9 with tensorflow achieved accuracy of prediction up to 99.00%
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `PIL`, `pickle`, `joblib`, `tensorflow`, `keras`, `cross_val_score`, `Loss`, `Accuracy`
 - **Model Used**: CNN
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-2-cnn-model-project)
 
 > #### 2. Image Classification Project
 - **Description**: For image classification tasks on resnet50d model
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `PIL`, `pytorch`, `torchvision`, `timm`
 - **Model Used**: ResNet-50d
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-3-image-classification-project-%EF%B8%8F)
 ---
 
 > ### Project 4-3 Object Detection
@@ -103,11 +106,13 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Object Detection from image on yolov8n model
 - **Libraries Used**: `pandas`, `NumPy`, `PIL`, `pytorch`, `ultralytics`, `yolo`
 - **Model Used**: YOLOv8n
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-4-object-detection-project)
 
 > #### 2. Fine-tuning pretrained model Project
 - **Description**: Fine-tuning pretrained model with smoke dataset picture from roboflow and test accuracy achieved at 90%
 - **Libraries Used**: `pandas`, `NumPy`, `PIL`, `pytorch`, `ultralytics`, `yolo`, `roboflow`
 - **Model Used**: YOLOv8n
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-5-fine-tuning-pretrained-object-dectection-model-project)
 
 > #### 3. Object Dectection Realtime
 - **Description**: screen recording video from personal CCTV through application and integrate with yolov8n to do object detection in realtime 
@@ -122,6 +127,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Image Search from video with CLIP Pre-trained Model
 - **Libraries Used**: `pandas`, `NumPy`, `yt_dlp`, `PIL`, `cv2`, `pytorch`, `CLIP`, `torchvision`, `transformers`
 - **Model Used**: CLIP
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-6-image-search-project)
 ---
 
 > ### Project 4-5 LLMs & Text Generation
@@ -130,21 +136,25 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Usage That LLM model with openthaigpt-1.0.0-7b-chat with hugging face
 - **Libraries Used**: `pandas`, `NumPy`, `gradio`, `pytorch`, `llama-index`, `llama-cpp-python`
 - **Model Used**: openthaigpt-1.0.0-7b-chat
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-7-thai-llm-model-usage-project)
 
 > #### 2. Generative and Summarize tasks for text using model LLM Project
 - **Description**: Usage That LLM model gpt2 for generative text task and facebook/bart-large-cnn model for summarize text task
 - **Libraries Used**: `pytorch`, `transformers`
 - **Model Used**: GPT-2, facebook/bart-large-cnn
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-8-generative-and-summarize-tasks-for-text-using-model-llm-project)
 
 > #### 3. Chat with LLM Projects
 - **Description**: hands on python code demo to create chat with LLM model with preserve history chat of previously chat
 - **Libraries Used**: `torch-cuda`, `transformers`
 - **Model Used**: Qwen/Qwen2.5
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-12-chat-with-llm-projects)
 
 > #### 4. Prompt-based Generation with LLM Projects
 - **Description**: hands on python code demo to Prompt-based Generation with Qwen/Qwen2.5 model
 - **Libraries Used**: `torch-cuda`, `transformers`
 - **Model Used**: Qwen/Qwen2.5
+- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-13-prompt-based-generation-with-llm-projects)
   
 ---
 
@@ -154,6 +164,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Usage tessaract for extract text task from picture link
 - **Libraries Used**: `opencv-python`, `pytesseract`, `flask`, `flask-ngrok`, `pyngrok`, `Gunicorn`, `Nginx`
 - **Model Used**: Tesseract
+- **Deployment**: on AWS EC2 with GitHub action 
 - [Separate Repository](https://github.com/JPP-J/OCR1_project.git)
   
 ---

@@ -75,7 +75,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - [Repository](https://github.com/JPP-J/clustering_project.git)
 
 ## Project 4: Deep learning/AI Project
-- **Description**: Details of all project below see in [Main Repository](https://github.com/JPP-J/deep-_learning_project.git)
+- **Description**: Details of all of projects below see in [Main Repository](https://github.com/JPP-J/deep-_learning_project.git)
 
 > ### Project 4-1 Artificial Neural Networks (ANN)
 

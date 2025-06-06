@@ -198,7 +198,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
   - Supports multiple NLP modes via dynamic route handling  
   - Returns clean JSON responses for easy frontend integration  
   - Provides endpoints to check available processing modes and active pipelines  
-  - Includes CI/CD setup with GitHub Actions and Docker for automated testing and deployment  
+  - Includes CI/CD setup with GitHub Actions and Docker for automated testing and deployment on AWS ECS + Fargate.
 
 - **Libraries & Tools**:  
   `spaCy`, `TextBlob`, `spaCyTextBlob`, `FastAPI`, `Uvicorn`, `Docker`, `GitHub Actions`

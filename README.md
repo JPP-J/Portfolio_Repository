@@ -52,7 +52,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 ## Project 1: Recommendation System Project
 > #### 1. Recommendation System v.1 Project
 - **Description**: Recommendation System of book items for user
-- **Libraries Used**: `pandas`, `NumPy`, `Hadoop`, `pyspark`, `scikit-learn`
+- **Libraries Used**: `pandas`, `NumPy`, `Hadoop`, `pyspark`, `Apache Spark MLlib`, `scikit-learn`
 - **Model Evaluation**: precision@k
 - [Repository](https://github.com/JPP-J/recommendation_project.git)
 

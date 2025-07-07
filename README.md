@@ -82,7 +82,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 > #### 1. ANN model Project
 - **Description**: Building ANN model associated on individual income dataset(to defines target label >50k or <=50k) with tensorflow(kearas) and individual credit bank dataset (to defines target label yes or no for credit ability) and with pytorch can acheived accuracy both tarin and validation stage up to 88.00%
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `pickle`, `joblib`, `tensorflow`, `keras`, `pytorch`, `cross_val_score`, `Loss`, `Accuracy`
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-1-artificial-neural-network-ann-classification)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl1)
 ---
 
 > ### Project 4-2 Convolutional Neural Networks (CNN) & Image Classification
@@ -91,13 +91,13 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Building CNN model to classified image associated on datatset MNIST identified hand written picture of number 0-9 with tensorflow achieved accuracy of prediction up to 99.00%
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `PIL`, `pickle`, `joblib`, `tensorflow`, `keras`, `cross_val_score`, `Loss`, `Accuracy`
 - **Model Used**: CNN
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-2-convolutional-neural-network-cnn-for-handwritten-digit-recognition)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl2)
 
 > #### 2. Image Classification Project
 - **Description**: For image classification tasks on resnet50d model
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `PIL`, `pytorch`, `torchvision`, `timm`
 - **Model Used**: ResNet-50d
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-3-image-classification-with-pretrained-resnet-50d-%EF%B8%8F)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl3)
 ---
 
 > ### Project 4-3 Object Detection

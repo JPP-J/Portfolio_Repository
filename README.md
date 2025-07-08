@@ -74,7 +74,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Model Evaluation**: silhouette_score, adjusted_rand_score, davies_bouldin_score
 - [Repository](https://github.com/JPP-J/clustering_project.git)
 
-## Project 4: Deep learning/AI Project
+## Project 4: Deep learning-AI-LLMs Project
 - **Description**: Details of all of projects below see in [Main Repository](https://github.com/JPP-J/deep-_learning_project.git)
 
 > ### Project 4-1 Artificial Neural Networks (ANN)

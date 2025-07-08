@@ -106,19 +106,19 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Object Detection from image on yolov8n model
 - **Libraries Used**: `pandas`, `NumPy`, `PIL`, `pytorch`, `ultralytics`, `yolo`
 - **Model Used**: YOLOv8n
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-4-object-detection-using-yolov8n-)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl4)
 
 > #### 2. Fine-tuning pretrained model Project
 - **Description**: Fine-tuning pretrained model with smoke dataset picture from roboflow and test accuracy achieved at 90%
 - **Libraries Used**: `pandas`, `NumPy`, `PIL`, `pytorch`, `ultralytics`, `yolo`, `roboflow`
 - **Model Used**: YOLOv8n
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-5-fine-tuning-yolov8n-for-smoke-detection-)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl5)
 
 > #### 3. Object Dectection Realtime 
 - **Description**: screen recording video from personal CCTV through application and integrate with yolov8n to do object detection in realtime 
 - **Libraries Used**: `pandas`, `NumPy`, `opencv-python/cv2`, `pytorch`, `ultralytics`, `yolo`
 - **Model Used**: YOLOv8n
-- [Separate Repository](https://github.com/JPP-J/object_dectection_realtime_project.git)
+- [Repository](https://github.com/JPP-J/object_dectection_realtime_project.git)
 ---
 
 > ### Project 4-4 Image & Video Processing
@@ -127,7 +127,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Image Search from video with CLIP Pre-trained Model
 - **Libraries Used**: `pandas`, `NumPy`, `yt_dlp`, `PIL`, `cv2`, `pytorch`, `CLIP`, `torchvision`, `transformers`
 - **Model Used**: CLIP
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-6-image-search-from-video-using-clip-)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl6)
 ---
 
 > ### Project 4-5 LLMs & Text Generation
@@ -136,25 +136,25 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Usage That LLM model with openthaigpt-1.0.0-7b-chat with hugging face
 - **Libraries Used**: `pandas`, `NumPy`, `gradio`, `pytorch`, `llama-index`, `llama-cpp-python`
 - **Model Used**: openthaigpt-1.0.0-7b-chat
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-7-thai-llm-model-usage-with-openthaigpt-)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl7)
 
 > #### 2. Generative and Summarize tasks for text using model LLM Project
 - **Description**: Usage That LLM model gpt2 for generative text task and facebook/bart-large-cnn model for summarize text task
 - **Libraries Used**: `pytorch`, `transformers`
 - **Model Used**: GPT-2, facebook/bart-large-cnn
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-8-generative-and-summarization-tasks-using-llms-%EF%B8%8F)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl8)
 
 > #### 3. Chat with LLM Projects
 - **Description**: hands on python code demo to create chat with LLM model with preserve history chat of previously chat
 - **Libraries Used**: `torch-cuda`, `transformers`
 - **Model Used**: Qwen/Qwen2.5
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-12-chat-with-llm-projects-)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl9)
 
 > #### 4. Prompt-based Generation with LLM Projects
 - **Description**: hands on python code demo to Prompt-based Generation with Qwen/Qwen2.5 model
 - **Libraries Used**: `torch-cuda`, `transformers`
 - **Model Used**: Qwen/Qwen2.5
-- [Details in Main Repository](https://github.com/JPP-J/deep-_learning_project?tab=readme-ov-file#project-13-prompt-based-generation-with-llm-projects-)
+- [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl10)
   
 ---
 
@@ -165,7 +165,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Libraries Used**: `opencv-python`, `pytesseract`, `flask`, `flask-ngrok`, `pyngrok`, `Gunicorn`, `Nginx`
 - **Model Used**: Tesseract
 - **Deployment**: on AWS EC2 with GitHub action 
-- [Separate Repository](https://github.com/JPP-J/OCR1_project.git)
+- [Repository](https://github.com/JPP-J/OCR1_project.git)
   
 ---
 

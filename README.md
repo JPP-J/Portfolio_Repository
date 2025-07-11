@@ -79,10 +79,16 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 
 > ### Project 4-1 Artificial Neural Networks (ANN)
 
-> #### 1. ANN model Project
+> #### 2. SET50 Stock Signal Pipeline – MLP Classifier (PTT)
+- **Description**: A full machine learning pipeline to classify `buy`, `hold`, and `sell` signals for PTT stock (SET50) using historical data and technical indicators. The project includes ETL, EDA (with MACD & Bollinger Band visualizations), feature engineering (25+ features), ANOVA-based feature selection, resampling to fix class imbalance, and model training with PyTorch MLP. Achieved **85% test accuracy**, and class-wise F1 scores above 0.75. 
+- **Libraries Used**: `yfinance`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `ta`, `sklearn`, `scipy`, `torch`, `joblib`, `datetime`, `os`
+- [Repository](https://github.com/JPP-J/DL-4_SET50/tree/main)
+
+> #### 2. ANN model Project
 - **Description**: Building ANN model associated on individual income dataset(to defines target label >50k or <=50k) with tensorflow(kearas) and individual credit bank dataset (to defines target label yes or no for credit ability) and with pytorch can acheived accuracy both tarin and validation stage up to 88.00%
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `pickle`, `joblib`, `tensorflow`, `keras`, `pytorch`, `cross_val_score`, `Loss`, `Accuracy`
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl1)
+
 ---
 
 > ### Project 4-2 Convolutional Neural Networks (CNN) & Image Classification

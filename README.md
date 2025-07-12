@@ -50,113 +50,118 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 
 
 ## Project 1: Recommendation System Project
-> #### 1. Recommendation System v.1 Project
+#### 1. Recommendation System v.1 Project
 - **Description**: Recommendation System of book items for user
 - **Libraries Used**: `pandas`, `NumPy`, `Hadoop`, `pyspark`, `Apache Spark MLlib`, `scikit-learn`
 - **Model Evaluation**: precision@k
 - [Repository](https://github.com/JPP-J/recommendation_project.git)
 
-> #### 2. Recommendation System v.2 Project
+#### 2. Recommendation System v.2 Project
 - **Description**: Recommendation System of movie for user, modified above version integrate with 'all-MiniLM-L6-v2' model for query search
 - **Libraries Used**: `pandas`, `NumPy`, `scikit-learn`, `FAISS`, `sentence_transformers`
 - **Pretrained Model**: all-MiniLM-L6-v2
 - [Repository](https://github.com/JPP-J/reccomd_project2.git)
   
 ## Project 2: Classification Project
-- **Description**: Classification with different algorithms such as Logistic Regression, Decision Tree, K-Nearest Neighbors and others
+- **Description**: Classification with different algorithms such as `Logistic Regression`, `Decision Tree`, `K-Nearest Neighbors` and others
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `scikit-learn`
 - **Model Evaluation**: Accuracy, Confusion Matrix, precision, recall and f1-score
 - [Repository](https://github.com/JPP-J/classification_project.git)
 
 ## Project 3: Clustering Project
-- **Description**: Clustering with K-mean, Hierarchical Clustering and DBSCAN with python code and rapid miner
+- **Description**: Clustering with `K-mean`, `Hierarchical Clustering` and `DBSCAN` with python code and rapid miner
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `scikit-learn`
 - **Model Evaluation**: silhouette_score, adjusted_rand_score, davies_bouldin_score
 - [Repository](https://github.com/JPP-J/clustering_project.git)
 
-## Project 4: Deep learning-AI-LLMs Project
-- **Description**: Details of all of projects below see in [Main Repository](https://github.com/JPP-J/deep-_learning_project.git)
+## Project 4: Regression Project and R-Programming Report
+- **Description**: Regression Analysis with processes Data Pre-processing, Feature Selection, Data Exploration, Model Training to Model Evaluation
+- **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `scikit-learn`
+- **Model Evaluation**: mean_squared_error, r2_score
+- [Repository](https://github.com/JPP-J/regression_project.git)
 
-> ### Project 4-1 Artificial Neural Networks (ANN)
+## Project 5: Deep learning-AI-LLMs Project
 
-> #### 2. SET50 Stock Signal Pipeline – MLP Classifier (PTT)
+### Project 5-1 Artificial Neural Networks (ANN)
+
+#### 1. SET50 Stock Signal Pipeline – MLP Classifier (PTT)
 - **Description**: A full machine learning pipeline to classify `buy`, `hold`, and `sell` signals for PTT stock (SET50) using historical data and technical indicators. The project includes ETL, EDA (with MACD & Bollinger Band visualizations), feature engineering (25+ features), ANOVA-based feature selection, resampling to fix class imbalance, and model training with PyTorch MLP. Achieved **85% test accuracy**, and class-wise F1 scores above 0.75. 
 - **Libraries Used**: `yfinance`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `ta`, `sklearn`, `scipy`, `torch`, `joblib`, `datetime`, `os`
 - [Repository](https://github.com/JPP-J/DL-4_SET50/tree/main)
 
-> #### 2. ANN model Project
+#### 2. ANN model for individual income prediction Project
 - **Description**: Building ANN model associated on individual income dataset(to defines target label >50k or <=50k) with tensorflow(kearas) and individual credit bank dataset (to defines target label yes or no for credit ability) and with pytorch can acheived accuracy both tarin and validation stage up to 88.00%
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `pickle`, `joblib`, `tensorflow`, `keras`, `pytorch`, `cross_val_score`, `Loss`, `Accuracy`
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl1)
 
 ---
 
-> ### Project 4-2 Convolutional Neural Networks (CNN) & Image Classification
+### Project 5-2 Convolutional Neural Networks (CNN) & Image Classification
 
-> #### 1. CNN model Project
+#### 1. CNN model Project
 - **Description**: Building CNN model to classified image associated on datatset MNIST identified hand written picture of number 0-9 with tensorflow achieved accuracy of prediction up to 99.00%
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `PIL`, `pickle`, `joblib`, `tensorflow`, `keras`, `cross_val_score`, `Loss`, `Accuracy`
 - **Model Used**: CNN
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl2)
 
-> #### 2. Image Classification Project
+#### 2. Image Classification Project
 - **Description**: For image classification tasks on resnet50d model
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `PIL`, `pytorch`, `torchvision`, `timm`
 - **Model Used**: ResNet-50d
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl3)
 ---
 
-> ### Project 4-3 Object Detection
+### Project 5-3 Object Detection
 
-> #### 1. Object Detection Project
+#### 1. Object Detection Project
 - **Description**: Object Detection from image on yolov8n model
 - **Libraries Used**: `pandas`, `NumPy`, `PIL`, `pytorch`, `ultralytics`, `yolo`
 - **Model Used**: YOLOv8n
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl4)
 
-> #### 2. Fine-tuning pretrained model Project
+#### 2. Fine-tuning pretrained model Project
 - **Description**: Fine-tuning pretrained model with smoke dataset picture from roboflow and test accuracy achieved at 90%
 - **Libraries Used**: `pandas`, `NumPy`, `PIL`, `pytorch`, `ultralytics`, `yolo`, `roboflow`
 - **Model Used**: YOLOv8n
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl5)
 
-> #### 3. Object Dectection Realtime 
+#### 3. Object Dectection Realtime 
 - **Description**: screen recording video from personal CCTV through application and integrate with yolov8n to do object detection in realtime 
 - **Libraries Used**: `pandas`, `NumPy`, `opencv-python/cv2`, `pytorch`, `ultralytics`, `yolo`
 - **Model Used**: YOLOv8n
 - [Repository](https://github.com/JPP-J/object_dectection_realtime_project.git)
 ---
 
-> ### Project 4-4 Image & Video Processing
+### Project 5-4 Image & Video Processing
 
-> #### 1. Image Search Project
+#### 1. Image Search Project
 - **Description**: Image Search from video with CLIP Pre-trained Model
 - **Libraries Used**: `pandas`, `NumPy`, `yt_dlp`, `PIL`, `cv2`, `pytorch`, `CLIP`, `torchvision`, `transformers`
 - **Model Used**: CLIP
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl6)
 ---
 
-> ### Project 4-5 LLMs & Text Generation
+### Project 5-5 LLMs & Text Generation
 
-> #### 1. Thai LLM model usage Project
+#### 1. Thai LLM model usage Project
 - **Description**: Usage That LLM model with openthaigpt-1.0.0-7b-chat with hugging face
 - **Libraries Used**: `pandas`, `NumPy`, `gradio`, `pytorch`, `llama-index`, `llama-cpp-python`
 - **Model Used**: openthaigpt-1.0.0-7b-chat
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl7)
 
-> #### 2. Generative and Summarize tasks for text using model LLM Project
+#### 2. Generative and Summarize tasks for text using model LLM Project
 - **Description**: Usage That LLM model gpt2 for generative text task and facebook/bart-large-cnn model for summarize text task
 - **Libraries Used**: `pytorch`, `transformers`
 - **Model Used**: GPT-2, facebook/bart-large-cnn
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl8)
 
-> #### 3. Chat with LLM Projects
+#### 3. Chat with LLM Projects
 - **Description**: hands on python code demo to create chat with LLM model with preserve history chat of previously chat
 - **Libraries Used**: `torch-cuda`, `transformers`
 - **Model Used**: Qwen/Qwen2.5
 - [Repository](https://github.com/JPP-J/deep-_learning_project/tree/dl9)
 
-> #### 4. Prompt-based Generation with LLM Projects
+#### 4. Prompt-based Generation with LLM Projects
 - **Description**: hands on python code demo to Prompt-based Generation with Qwen/Qwen2.5 model
 - **Libraries Used**: `torch-cuda`, `transformers`
 - **Model Used**: Qwen/Qwen2.5
@@ -164,9 +169,9 @@ This repository showcases a diverse collection of Data Science, Machine Learning
   
 ---
 
-> ###  Project 4-6 OCR (Optical Character Recognition)
+###  Project 5-6 OCR (Optical Character Recognition)
 
-> #### 1. OCR extract text from picture
+#### 1. OCR extract text from picture
 - **Description**: Usage tessaract for extract text task from picture link
 - **Libraries Used**: `opencv-python`, `pytesseract`, `flask`, `flask-ngrok`, `pyngrok`, `Gunicorn`, `Nginx`
 - **Model Used**: Tesseract
@@ -175,37 +180,31 @@ This repository showcases a diverse collection of Data Science, Machine Learning
   
 ---
 
-> ###  Project 4-7 Chatbot & API Integration
+###  Project 5-7 Chatbot & API Integration
 
-> #### 1. GEMINI-API Projects
+#### 1. GEMINI-API Projects
 - **Description**: hands on python code demo to create chat with GEMINI-API AI with preserve history chat of previously chat
 - **Libraries Used**: `json`, `dotenv`, `google-genai`
 - **Model Used**: Gemini-2.0-flash
 - [Separate Repository](https://github.com/JPP-J/DL-2_GEMINI_project)
 
-> #### 2. RAG-based Chatbot with Ollama and FAISS
+#### 2. RAG-based Chatbot with Ollama and FAISS
 - **Description**: Hands-on Python code demo for building a Retrieval-Augmented Generation (RAG) chatbot that uses FAISS for vector search and Ollama LLM for context-aware responses. Features document upload, persistent chat history, and Gradio-based UI.
 - **Libraries Used**: `langchain`, `FAISS`, `HuggingFaceEmbeddings`, `ollama`, `gradio`, `pythainlp`
 - **Model Used**: `gemma3:1b` (via Ollama), `all-MiniLM-L6-v2` (for embeddings)
 - [Separate  Repository](https://github.com/JPP-J/DL-3_RAG)
   
 
-## Project 5: Regression Project and R-Programming Report
-- **Description**: Regression Analysis with processes Data Pre-processing, Feature Selection, Data Exploration, Model Training to Model Evaluation
-- **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `seaborn`, `scikit-learn`
-- **Model Evaluation**: mean_squared_error, r2_score
-- [Repository](https://github.com/JPP-J/regression_project.git)
-
 ## Project 6: Text Analytic/NLP Project
 
-> #### 1. Text Analytic Project
+#### 1. Text Analytic Project
 - **Description**: Text classification categories of BBC News dataset and text clustering group of BBC News dataset both python code and rapid miner processes
 - **Libraries Used**: `pandas`, `NumPy`, `matplotlib`, `joblib`, `nltk`, `scikit-learn`
 - **Token Vector**: TF-IDF, Terms Occurrence, TF
 - **Model Evaluation**: accuracy_score, classification_report, silhouette_score, adjusted_rand_score, davies_bouldin_score
 - [Repository](https://github.com/JPP-J/text_analytic_project.git)
 
-> #### 2. NLP Microservice API for Text Analysis
+#### 2. NLP Microservice API for Text Analysis
 
 - **Description**:  
   Built a FastAPI-based NLP microservice that supports multiple text processing modes, including sentiment analysis, named entity recognition (NER), POS tagging, dependency parsing, lemmatization, and more.

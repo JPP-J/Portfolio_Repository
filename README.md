@@ -233,7 +233,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 This case study showcases how Tableau and Power BI were used to analyze different datasets like postgresSQL, MtMySQL and CSV files, turning raw data into actionable insights.
 - LINK: [Data Visualization Presentation](https://www.canva.com/design/DAGaAbpnfNs/VBBpHbTmypLrZ4WwHkQr4Q/edit?utm_content=DAGaAbpnfNs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
-> ### 1. 🎵 Spotify Dashboard (Tableau)
+### 1. 🎵 Spotify Dashboard (Tableau)
 
 - **Tool**: Tableau  
 - **Data Source**: CSV  
@@ -250,7 +250,7 @@ This case study showcases how Tableau and Power BI were used to analyze differen
   - Seasonality in user behavior by selecting month or day specific 
 
 
-> ### 2. 🛍️ Sales Dashboard – Department/City (Tableau)
+### 2. 🛍️ Sales Dashboard – Department/City (Tableau)
 
 - **Tool**: Tableau  
 - **Data Source**: CSV  
@@ -265,7 +265,7 @@ This case study showcases how Tableau and Power BI were used to analyze differen
   - Top-performing categories
   - Underperforming State or City 
 
-> ### 3. 💰 Income vs Expense Dashboard (Tableau + PostgreSQL)
+### 3. 💰 Income vs Expense Dashboard (Tableau + PostgreSQL)
 
 - **Tool**: Tableau  
 - **Data Source**: PostgreSQL (Mock data)  
@@ -280,7 +280,7 @@ This case study showcases how Tableau and Power BI were used to analyze differen
   - Overspending detection
   - Budget reallocation guidance
 
-> ### 4. 📈 Sales Report with Forecasting and Clustering (Power BI)
+### 4. 📈 Sales Report with Forecasting and Clustering (Power BI)
 
 - **Tool**: Power BI  
 - **Data Source**: CSV + Power BI built-in ML tools  

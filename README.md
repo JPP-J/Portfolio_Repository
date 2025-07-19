@@ -54,7 +54,7 @@ This repository showcases a diverse collection of Data Science, Machine Learning
 - **Description**: Recommendation System of book items for user
 - **Libraries Used**: `pandas`, `NumPy`, `Hadoop`, `pyspark`, `Apache Spark MLlib`, `scikit-learn`
 - **Model Evaluation**: precision@k
-- [Repository](https://github.com/JPP-J/recommendation_project.git)
+- [Repository](https://github.com/JPP-J/recommendation1)
 
 #### 2. Recommendation System v.2 Project
 - **Description**: Recommendation System of movie for user, modified above version integrate with 'all-MiniLM-L6-v2' model for query search

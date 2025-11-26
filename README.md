@@ -2,6 +2,7 @@
 
 This repository showcases a diverse collection of Data Science, Machine Learning, Deep Learning, and AI projects, built using Python, PyTorch, TensorFlow, and various cutting-edge tools and frameworks. The projects span across recommendation systems, classification, clustering, regression, computer vision (CNN, object detection, image search), large language models (LLMs), OCR, NLP microservices, chatbot integrations, and data visualization. They demonstrate hands-on experience with real-world datasets, industry-standard libraries (`pandas`, `scikit-learn`, `PySpark`, `Hadoop`, etc.), modern deployment tools (`FastAPI`, `Docker`, `GitHub Actions`), and advanced techniques in model evaluation, feature engineering, and AI integration. Each project is designed with clarity and modular code, and many include Jupyter Notebooks for interpretability and reproducibility.
 
+
 ### 🛠️ Tools & Technologies Used Across All Projects 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)

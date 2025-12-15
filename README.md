@@ -1,6 +1,8 @@
 # 🚀 Portfolio of Projects 
 
-This repository showcases a diverse collection of Data Science, Machine Learning, Deep Learning, and AI projects, built using Python, PyTorch, TensorFlow, and various cutting-edge tools and frameworks. The projects span across recommendation systems, classification, clustering, regression, computer vision (CNN, object detection, image search), large language models (LLMs), OCR, NLP microservices, chatbot integrations, and data visualization. They demonstrate hands-on experience with real-world datasets, industry-standard libraries (`pandas`, `scikit-learn`, `PySpark`, `Hadoop`, etc.), modern deployment tools (`FastAPI`, `Docker`, `GitHub Actions`), and advanced techniques in model evaluation, feature engineering, and AI integration. Each project is designed with clarity and modular code, and many include Jupyter Notebooks for interpretability and reproducibility.
+This repository showcases a collection of **self-driven showcase projects** and **educational projects** in Data Science, Machine Learning, Deep Learning, and AI. Built with Python, PyTorch, TensorFlow, and modern tools, the projects cover recommendation systems, classification, clustering, regression, computer vision, NLP, LLMs, OCR, chatbots, and data visualization.
+
+They highlight hands-on work with real-world datasets, industry-standard libraries (`pandas`, `scikit-learn`, `PySpark`, `Hadoop`), and practical deployment using tools like `FastAPI`, `Docker`, and `GitHub Actions`. The focus is on clear, modular code, solid experimentation, and reproducibility, with many projects including Jupyter Notebooks for learning and interpretation.
 
 
 ### 🛠️ Tools & Technologies Used Across All Projects 
